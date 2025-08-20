@@ -1,3 +1,4 @@
 .env
 detectenv/
 Celebrity_Detector_and_QA.egg-info
+gcp-key.json
